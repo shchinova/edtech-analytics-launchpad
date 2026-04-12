@@ -172,12 +172,8 @@ edtech-analytics-launchpad/
 ## Контакты
 
 Если у вас есть вопросы или предложения по проекту — буду рада обратной связи!
-
 Посмотреть больше работ можно в [Портфолио](https://shchinova.github.io/).
 
-
 Елена Щинова
-
-https://t.me/shchinova
-
-shchinova18@gmail.com
+[Telegram](https://t.me/shchinova)
+[Gmail](shchinova18@gmail.com)
