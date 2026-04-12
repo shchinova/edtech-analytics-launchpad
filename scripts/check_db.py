@@ -1,3 +1,13 @@
+"""
+check_db.py — проверка структуры базы данных platform.duckdb
+
+Что делает этот скрипт: выводит структуру базы данный и список таблиц и витрин.
+
+Запуск:
+  python scripts/check_db.py
+
+"""
+
 import duckdb
 
 con = duckdb.connect("data/db/platform.duckdb", read_only=True)
